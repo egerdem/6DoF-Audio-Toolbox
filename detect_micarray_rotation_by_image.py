@@ -39,7 +39,7 @@ def sort_by_rows(circles, row_height=100):
     return sorted_circles
 
 # Load the new image with multiple RSMAs
-new_image_path = "5_zylias.png"  # Update the image path/name as needed
+new_image_path = "images/5_zylias.png"  # Update the image path/name as needed
 new_image = cv2.imread(new_image_path)
 
 # Check if the image was loaded successfully
