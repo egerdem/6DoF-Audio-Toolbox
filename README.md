@@ -27,6 +27,7 @@ Input image of 5 Zylia Mics rotated arbitrarily:
 <img src="images/5_zylias.png" alt="1" width="500" style="display: block; margin-left: 0;"/>
 
 Detected circles in the image:
+Detected circles in the image:
 <img src="images/5_zylias_detected.png" alt="2" width="500" style="display: block; margin-left: 0;"/>
 
 Features found for the object 1 and 4:
